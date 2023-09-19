@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**morsh99/morsh99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 Hiii... I'm Morsh; Short for Mohammad Reza Sharifi. I'm 24 years old; a web developer.<br>🔭 I’m currently working on my skills for web programming especially ASP.Net . <br>🤝 I’m looking to collaborate with any person interested in developing back end. Any one looking for a teammate??<br>🌱 I’m learning lots of things every day, from languages to programming to psychology; to improve every skill that makes me a more efficient man. I'm so much interested in web and application programming, music and cats!<br>💬 I'm a student of electrical engineering and don't hate to combine it with programming!<br>⚡ I practice singing and i love it. Music is ausome.
 
